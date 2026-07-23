@@ -1,0 +1,112 @@
+Auto-Transcript Start Time:  13:56:13, 25 Nov 2025 Bangladesh Standard Time 
+Current Directory: "D:\Books,Research Works And Experiments\Paper1_PCM\10 cm TT\5 mm\Mesh"
+
+              Welcome to ANSYS Fluent 2025 R2
+
+              Copyright 1987-2025 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Jun 16 2025 10:46:43 EDT  Build Id: 10204  
+ 
+Connected License Server List:	<Shared_Web_License_Server>
+
+     --------------------------------------------------------------
+     This is a student version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "HRIVU" (win64).
+
+---------------------------------------------------------------------------------------
+ID    Hostname  Core  O.S.         PID    Vendor                                      
+---------------------------------------------------------------------------------------
+n3    HRIVU     4/16  Windows-x64  2932   AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n2    HRIVU     3/16  Windows-x64  18016  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n1    HRIVU     2/16  Windows-x64  13476  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n0*   HRIVU     1/16  Windows-x64  10948  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+host  HRIVU           Windows-x64  18208  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+
+MPI Option Selected: intel
+Selected system interconnect: default
+---------------------------------------------------------------------------------------
+
+Cleanup script file is D:\\Books,Research Works And Experiments\\Paper1_PCM\\10 cm TT\\5 mm\\Mesh\\cleanup-fluent-HRIVU-18208.bat
+
+Graphics driver currently in use: dx11
+
+
+Posting ANSYS Product Improvement Program startup data
+Done.
+
+> (cx-gui-do cx-activate-item "MenuBar*ReadSubMenu*Case & Data...")
+(cx-gui-do cx-set-file-dialog-entries "Select File" '( "D:/Books,Research Works And Experiments/Paper1_PCM/Gau,Viskanta_validation 2/solution/ga_melting_initial.cas.h5") "CFF Case Files (*.cas.h5 )")
+Fast-loading "D:\ANSYS Inc\ANSYS Student\v252\fluent\fluent25.2.0\\addons\afd\lib\hdfio.bin"
+Done.
+Multicore SMT processors detected. Processor affinity set!
+
+Reading from HRIVU:"D:/Books,Research Works And Experiments/Paper1_PCM/Gau,Viskanta_validation 2/solution/ga_melting_initial.cas.h5" in NODE0 mode ...
+  Reading mesh ...
+        3310 cells,     1 cell zone  ...
+           3310 triangular cells,  zone id: 38
+        5042 faces,     5 face zones ...
+             45 2D wall faces,  zone id: 17
+             32 2D wall faces,  zone id: 18
+             45 2D wall faces,  zone id: 19
+             32 2D wall faces,  zone id: 20
+           4888 2D interior faces,  zone id: 40
+        1733 nodes,     1 node zone  ...
+  Done.
+
+
+Building...
+     mesh
+	distributing mesh
+		parts....,
+		faces....,
+		nodes....,
+		cells....,
+        bandwidth reduction using Reverse Cuthill-McKee: 812/31 = 26.1935
+     materials,
+     interface,
+     domains,
+	mixture
+     zones,
+	interior:surface
+	wall_top
+	source
+	wall_btm
+	sink
+	surface
+     parallel,
+Done.
+Current Under-Relaxation Factor for pressure is 0.700000, which is not the default; adjustment may be needed.
+
+Reading from HRIVU:"D:/Books,Research Works And Experiments/Paper1_PCM/Gau,Viskanta_validation 2/solution/ga_melting_initial.dat.h5" in NODE0 mode ...
+
+
+  Reading results.
+Parallel variables...
+Done.
+(cx-gui-do cx-activate-item "Ribbon*Frame1*Frame3(Physics)*Table1*Table3(Materials)*PushButton1(Create/Edit)")
+(cx-gui-do cx-activate-item "Create/Edit Materials*PushButton9(Edit)")
+(cx-gui-do cx-activate-item "Piecewise-Linear Profile*PanelButtons*PushButton1(OK)")
+(cx-gui-do cx-activate-item "Create/Edit Materials*PanelButtons*PushButton1(Close)")
+(cx-gui-do cx-activate-item "Ribbon*Frame1*Frame3(Physics)*Table1*Table3(Materials)*PushButton1(Create/Edit)")
+(cx-gui-do cx-set-list-selections "Create/Edit Materials*Table2*Table1(Properties)*DropDownList4(Density)" '( 15))
+(cx-gui-do cx-activate-item "Create/Edit Materials*Table2*Table1(Properties)*DropDownList4(Density)")
+
+Error: No user-defined functions of type udf-type-property have been loaded.
+Error Object: #f
+(cx-gui-do cx-activate-item "Error*OK")
+(cx-gui-do cx-set-list-selections "Create/Edit Materials*Table2*Table1(Properties)*DropDownList4(Density)" '( 10))
+(cx-gui-do cx-activate-item "Create/Edit Materials*Table2*Table1(Properties)*DropDownList4(Density)")
+(cx-gui-do cx-activate-item "Piecewise-Linear Profile*PanelButtons*PushButton2(Cancel)")
+(cx-gui-do cx-activate-item "Create/Edit Materials*PanelButtons*PushButton1(Close)")
+/exit y
+
+Posting ANSYS Product Improvement Program performance data 
+Done.
+Auto-Transcript Stop Time:  14:09:37, 25 Nov 2025 Bangladesh Standard Time 
+Total Transcript Time: 13 Minute 23 Second.

@@ -1,0 +1,48 @@
+Auto-Transcript Start Time:  20:10:47, 04 Feb 2026 Bangladesh Standard Time 
+Current Directory: "D:\Books,Research Works And Experiments\Paper1_PCM\10 cm TT\5 mm\Mesh"
+
+              Welcome to ANSYS Fluent 2025 R2
+
+              Copyright 1987-2025 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Jun 16 2025 10:46:43 EDT  Build Id: 10204  
+ 
+Connected License Server List:	<Shared_Web_License_Server>
+
+     --------------------------------------------------------------
+     This is a student version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "HRIVU" (win64).
+
+---------------------------------------------------------------------------------------
+ID    Hostname  Core  O.S.         PID    Vendor                                      
+---------------------------------------------------------------------------------------
+n3    HRIVU     4/16  Windows-x64  3272   AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n2    HRIVU     3/16  Windows-x64  1660   AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n1    HRIVU     2/16  Windows-x64  11320  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+n0*   HRIVU     1/16  Windows-x64  22740  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+host  HRIVU           Windows-x64  12292  AMD Ryzen 7 8745H with Radeon 780M Graphics 
+
+MPI Option Selected: intel
+Selected system interconnect: default
+---------------------------------------------------------------------------------------
+
+Cleanup script file is D:\\Books,Research Works And Experiments\\Paper1_PCM\\10 cm TT\\5 mm\\Mesh\\cleanup-fluent-HRIVU-12292.bat
+
+Graphics driver currently in use: dx11
+
+
+Posting ANSYS Product Improvement Program startup data
+Done.
+
+> /exit y
+
+Posting ANSYS Product Improvement Program performance data 
+Done.
+Auto-Transcript Stop Time:  20:11:44, 04 Feb 2026 Bangladesh Standard Time 
+Total Transcript Time: 0 Minute 57 Second.

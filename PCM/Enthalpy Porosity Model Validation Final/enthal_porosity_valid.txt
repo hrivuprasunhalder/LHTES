@@ -1,0 +1,12 @@
+Instead of designing only a 2d slice of gau vishkanta's Ga melting setup(I also used this approach initially,contour,case & data files are in the repo), I designed the whole 3d fluid region this time. From which contour of the 2d slice from the interface is shown from 2,6,10,17. To clarify it was a 3d simulation, just taken a 2d contour of interface for comparison with experimental data.
+
+*Used boussinesq approx.(in previous work i used peicewise linear(or piecewise poly,not sure)
+*Operating cond --> boussinesq temp 29.9 C and density 6093
+*Viscous-->laminar, Energy-->ON, Solid&melt-->mushyzone constant= 100000
+*Cp(specific heat)= 381.5, conductivity= 32, viscosity= 0.00181, solidus=liqudud temp= 29.7(no mixed state), pure solvent melting heat= 80160, thermal expansion coeff= 1.2*10^-04
+*BC--> left wall=38 C, right wall=28.3
+*Solution--> PISO, pressure-->standard, transient formulation--> first oreder implicit
+*Control--> press=0.7, momen=0.7, liq fraction=0.7,energy=1
+*Residuals-->X,Y,Z,Cont= 10^-05
+*Initialization--> Standard, temp--28.3
+*Calc--> Time step size-->0.5, it/timestep=20 
