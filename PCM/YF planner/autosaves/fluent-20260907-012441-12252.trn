@@ -1,0 +1,55 @@
+Auto-Transcript Start Time:  01:24:41, 07 Sep 2026 Bangladesh Standard Time 
+Current Directory: "T:\hrivu\YF planner\autosaves"
+
+              Welcome to ANSYS Fluent 2023 R1
+
+              Copyright 1987-2023 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Nov 28 2022 09:52:41 EST  Build Id: 10208  
+ 
+Connected License Server List:	1055@DESKTOP-GPDPC4I
+
+     --------------------------------------------------------------
+     This is an academic version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "PC08" (win64).
+
+-------------------------------------------------------------------------------
+ID    Hostname  Core   O.S.         PID    Vendor                          
+-------------------------------------------------------------------------------
+n19   PC08      20/28  Windows-x64  13272  Intel(R) Core(TM) i7-14700      
+n18   PC08      19/28  Windows-x64  22320  Intel(R) Core(TM) i7-14700      
+n17   PC08      18/28  Windows-x64  10000  Intel(R) Core(TM) i7-14700      
+n16   PC08      17/28  Windows-x64  6424   Intel(R) Core(TM) i7-14700      
+n15   PC08      16/28  Windows-x64  15752  Intel(R) Core(TM) i7-14700      
+n14   PC08      15/28  Windows-x64  17692  Intel(R) Core(TM) i7-14700      
+n13   PC08      14/28  Windows-x64  18160  Intel(R) Core(TM) i7-14700      
+n12   PC08      13/28  Windows-x64  3900   Intel(R) Core(TM) i7-14700      
+n11   PC08      12/28  Windows-x64  19708  Intel(R) Core(TM) i7-14700      
+n10   PC08      11/28  Windows-x64  3048   Intel(R) Core(TM) i7-14700      
+n9    PC08      10/28  Windows-x64  15532  Intel(R) Core(TM) i7-14700      
+n8    PC08      9/28   Windows-x64  15460  Intel(R) Core(TM) i7-14700      
+n7    PC08      8/28   Windows-x64  4508   Intel(R) Core(TM) i7-14700      
+n6    PC08      7/28   Windows-x64  4720   Intel(R) Core(TM) i7-14700      
+n5    PC08      6/28   Windows-x64  16700  Intel(R) Core(TM) i7-14700      
+n4    PC08      5/28   Windows-x64  18000  Intel(R) Core(TM) i7-14700      
+n3    PC08      4/28   Windows-x64  21684  Intel(R) Core(TM) i7-14700      
+n2    PC08      3/28   Windows-x64  20040  Intel(R) Core(TM) i7-14700      
+n1    PC08      2/28   Windows-x64  17308  Intel(R) Core(TM) i7-14700      
+n0*   PC08      1/28   Windows-x64  15844  Intel(R) Core(TM) i7-14700      
+host  PC08             Windows-x64  19196  Intel(R) Core(TM) i7-14700      
+
+MPI Option Selected: intel
+Selected system interconnect: default
+-------------------------------------------------------------------------------
+
+Cleanup script file is T:\\hrivu\\YF planner\\autosaves\\cleanup-fluent-PC08-19196.bat
+
+> /exit y
+Auto-Transcript Stop Time:  01:24:52, 07 Sep 2026 Bangladesh Standard Time 
+Total Transcript Time: 0 Minute 11 Second.

@@ -1,0 +1,42 @@
+AnimationSequence1.0
+NAME: temperature
+WINID: 1
+STORAGE: 7
+PLOTANIMATION: 0
+FRAMES: 36
+Frame 0 7 temperature_0000.png 1
+Frame 1 7 temperature_0001.png 1
+Frame 2 7 temperature_0002.png 1
+Frame 3 7 temperature_0003.png 1
+Frame 4 7 temperature_0004.png 1
+Frame 5 7 temperature_0005.png 1
+Frame 6 7 temperature_0006.png 1
+Frame 7 7 temperature_0007.png 1
+Frame 8 7 temperature_0008.png 1
+Frame 9 7 temperature_0009.png 1
+Frame 10 7 temperature_0010.png 1
+Frame 11 7 temperature_0011.png 1
+Frame 12 7 temperature_0012.png 1
+Frame 13 7 temperature_0013.png 1
+Frame 14 7 temperature_0014.png 1
+Frame 15 7 temperature_0015.png 1
+Frame 16 7 temperature_0016.png 1
+Frame 17 7 temperature_0017.png 1
+Frame 18 7 temperature_0018.png 1
+Frame 19 7 temperature_0019.png 1
+Frame 20 7 temperature_0020.png 1
+Frame 21 7 temperature_0021.png 1
+Frame 22 7 temperature_0022.png 1
+Frame 23 7 temperature_0023.png 1
+Frame 24 7 temperature_0024.png 1
+Frame 25 7 temperature_0025.png 1
+Frame 26 7 temperature_0026.png 1
+Frame 27 7 temperature_0027.png 1
+Frame 28 7 temperature_0028.png 1
+Frame 29 7 temperature_0029.png 1
+Frame 30 7 temperature_0030.png 1
+Frame 31 7 temperature_0031.png 1
+Frame 32 7 temperature_0032.png 1
+Frame 33 7 temperature_0033.png 1
+Frame 34 7 temperature_0034.png 1
+Frame 35 7 temperature_0035.png 1
