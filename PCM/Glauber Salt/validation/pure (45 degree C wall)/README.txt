@@ -1,0 +1,1 @@
+Used Fluent 2026 R1 student version, pervious versions may not work
