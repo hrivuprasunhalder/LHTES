@@ -1,0 +1,31 @@
+AnimationSequence1.0
+NAME: melting
+WINID: 1
+STORAGE: 7
+PLOTANIMATION: 0
+FRAMES: 25
+Frame 0 7 melting_0020.0000_0000.png 1
+Frame 1 7 melting_0040.0000_0001.png 1
+Frame 2 7 melting_0060.0000_0002.png 1
+Frame 3 7 melting_0080.0000_0003.png 1
+Frame 4 7 melting_0100.0000_0004.png 1
+Frame 5 7 melting_0120.0000_0005.png 1
+Frame 6 7 melting_0140.0000_0006.png 1
+Frame 7 7 melting_0160.0000_0007.png 1
+Frame 8 7 melting_0180.0000_0008.png 1
+Frame 9 7 melting_0200.0000_0009.png 1
+Frame 10 7 melting_0220.0000_0010.png 1
+Frame 11 7 melting_0240.0000_0011.png 1
+Frame 12 7 melting_0260.0000_0012.png 1
+Frame 13 7 melting_0280.0000_0013.png 1
+Frame 14 7 melting_0300.0000_0014.png 1
+Frame 15 7 melting_0320.0000_0015.png 1
+Frame 16 7 melting_0340.0000_0016.png 1
+Frame 17 7 melting_0360.0000_0017.png 1
+Frame 18 7 melting_0380.0000_0018.png 1
+Frame 19 7 melting_0400.0000_0019.png 1
+Frame 20 7 melting_0420.0000_0020.png 1
+Frame 21 7 melting_0440.0000_0021.png 1
+Frame 22 7 melting_0460.0000_0022.png 1
+Frame 23 7 melting_0480.0000_0023.png 1
+Frame 24 7 melting_0500.0000_0024.png 1
